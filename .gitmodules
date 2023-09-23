@@ -1,0 +1,3 @@
+[submodule "Nachos"]
+	path = Nachos
+	url = https://github.com/HiIAmTzeKean/SC2005-nachos-lab-notes
