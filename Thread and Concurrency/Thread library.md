@@ -1,5 +1,9 @@
 ---
-tags: 🌱
+tags:
+  - 🌱
+  - OS
+  - ComputerScience
+  - Thread
 date: 04--Jul--2022
 ---
 

@@ -1,6 +1,10 @@
 ---
-tags: 🌱, TOCHECK
+tags:
+  - 🌱
+  - OS
+  - ComputerScience
 date: 11--Aug--2022
+modified: 29--Oct--2023
 ---
 
 # Interrupt

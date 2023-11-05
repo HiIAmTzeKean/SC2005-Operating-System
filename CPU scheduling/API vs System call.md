@@ -1,11 +1,14 @@
 ---
-tags: 🌱
+tags:
+  - 🌱
+  - OS
+  - ComputerScience 
 date: 11--Aug--2022
 ---
 
 # API vs System call
 
-[[SC2005 Operating system/CPU scheduling/Application programming interface|API]] vs [[System call]]
+[[API|API]] vs [[System call]]
 
 | API                                                                                          | System call                                                                  |
 | -------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------- |

@@ -1,9 +1,12 @@
 ---
-tags: 🌱
-alias: API
+tags:
+  - 🌱
+  - OS
+  - ComputerScience 
+aliases:
+  - Application Programming Interface
 date: 11--Aug--2022
 ---
-
 # Application programming interface
 
 API is used to establish connectivity to hardware and applications. APIs provides function calls that can be made to a library to perform an operation.

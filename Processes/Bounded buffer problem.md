@@ -1,5 +1,9 @@
 ---
-tags: 🌱
+tags:
+  - 🌱
+  - OS
+  - ComputerScience
+  - Process
 alias: Producer consumer problem
 date: 14--Jul--2022
 ---

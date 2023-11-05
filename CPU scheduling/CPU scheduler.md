@@ -1,5 +1,8 @@
 ---
-tags: 🌱
+tags:
+  - 🌱
+  - OS
+  - ComputerScience 
 alias: Short-term scheduler
 date: 05--Jul--2022
 ---

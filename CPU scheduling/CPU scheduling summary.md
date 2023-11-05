@@ -1,6 +1,10 @@
 ---
-tags: 🌱, SUMARRY 
+tags:
+  - 🌱
+  - OS
+  - ComputerScience
 date: 27--Aug--2022
+modified: 29--Oct--2023
 ---
 
 # CPU scheduling summary

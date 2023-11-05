@@ -1,5 +1,9 @@
 ---
-tags: 🌱
+tags:
+  - 🌱
+  - OS
+  - ComputerScience
+  - Process
 date: 17--Jul--2022
 ---
 

@@ -1,5 +1,8 @@
 ---
-tags: 🌱
+tags:
+  - 🌱
+  - OS
+  - ComputerScience 
 date: 17--Aug--2022
 ---
 
@@ -8,4 +11,4 @@ date: 17--Aug--2022
 Each device in the system works asynchronously with each other and requires an OS layer to handle the interactions with these devices.
 
 ---
-Links: [[Computer architecture]] 
+Links: [[ComputerScience architecture]] 

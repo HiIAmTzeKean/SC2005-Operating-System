@@ -1,5 +1,9 @@
 ---
-tags: 🌱
+tags:
+  - 🌱
+  - OS
+  - ComputerScience
+  - Thread
 alias: thread
 date: 03--Jul--2022
 ---

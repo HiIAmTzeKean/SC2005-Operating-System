@@ -1,6 +1,10 @@
 ---
-tags: 🌱
+tags:
+  - 🌱
+  - OS
+  - ComputerScience
 date: 24--Jul--2022
+modified: 22--Oct--2023
 ---
 
 # 50-percent rule

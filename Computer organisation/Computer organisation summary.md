@@ -1,11 +1,15 @@
 ---
-tags: 🌱, SUMARRY 
+tags:
+  - 🌱
+  - OS
+  - ComputerScience
 date: 26--Aug--2022
+modified: 22--Oct--2023
 ---
 
-# Computer organisation summary
+# ComputerScience organisation summary
 
-1. [[Computer architecture]]
+1. [[ComputerScience architecture]]
     1. [[Device controller]]
     2. [[Interrupt]]
     3. [[System call]]

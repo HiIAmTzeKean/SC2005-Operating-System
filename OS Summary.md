@@ -1,11 +1,15 @@
 ---
-tags: 🌱, SUMARRY 
+tags:
+  - 🌱
+  - OS
+  - ComputerScience
 date: 27--Aug--2022
+modified: 22--Oct--2023
 ---
 
 # OS Summary
 
-1. [[Computer organisation summary]] 
+1. [[ComputerScience organisation summary]] 
 2. [[Process summary]]
 3. [[Thread summary]]
 4. [[CPU scheduling summary]]

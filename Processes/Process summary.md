@@ -1,6 +1,11 @@
 ---
-tags: 🌱, SUMARRY
+tags:
+  - 🌱
+  - OS
+  - ComputerScience
+  - Process
 date: 26--Aug--2022
+modified: 29--Oct--2023
 ---
 
 # Process summary

@@ -1,9 +1,12 @@
 ---
-tags: 🌱
+tags:
+  - 🌱
+  - OS
+  - ComputerScience 
 date: 17--Aug--2022
 ---
 
-# Computer architecture
+# ComputerScience architecture
 
 A typical computer system will contain
 - [[System bus]]

@@ -1,5 +1,8 @@
 ---
-tags: 🌱
+tags:
+  - 🌱
+  - OS
+  - ComputerScience 
 date: 11--Aug--2022
 ---
 
@@ -8,7 +11,7 @@ date: 11--Aug--2022
 > [!Summary]
 > When a non-privileged user program request services of OS, it will invoke system call to to request [[Kernel system]] to do some privileged task.
 
-Provides a way for [[User program]] to interface with [[Kernel system]] in OS. Typically, user programs do not directly access system calls, but does it thorough an [[SC2005 Operating system/CPU scheduling/Application programming interface|API]].
+Provides a way for [[User program]] to interface with [[Kernel system]] in OS. Typically, user programs do not directly access system calls, but does it thorough an [[API|API]].
 
 System calls are typically written in assembly language or C.
 

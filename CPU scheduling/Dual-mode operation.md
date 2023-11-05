@@ -1,5 +1,8 @@
 ---
-tags: 🌱
+tags:
+  - 🌱
+  - OS
+  - ComputerScience 
 date: 10--Aug--2022
 ---
 
@@ -15,7 +18,7 @@ OS runs dual mode that alternates between [[User mode]] and [[Kernel mode]].
 ## Architecture
 
 - Mode bit
-    - Computer hardware to indicate the current mode
+    - ComputerScience hardware to indicate the current mode
     - [[Interrupt]] or [[Trap]] causes the mode bit to switch to [[Kernel data]]
 
 ## Example

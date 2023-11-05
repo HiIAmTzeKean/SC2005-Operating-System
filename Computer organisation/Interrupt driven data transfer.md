@@ -1,6 +1,10 @@
 ---
-tags: 🌱
+tags:
+  - 🌱
+  - OS
+  - ComputerScience
 date: 17--Aug--2022
+modified: 22--Oct--2023
 ---
 
 # Interrupt driven data transfer

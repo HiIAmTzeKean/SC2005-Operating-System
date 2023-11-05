@@ -1,5 +1,9 @@
 ---
-tags: 🌱
+tags:
+  - 🌱
+  - OS
+  - ComputerScience
+  - Process
 alias: PCB
 date: 08--Jul--2022
 ---
