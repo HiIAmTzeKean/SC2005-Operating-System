@@ -2,9 +2,11 @@
 tags:
   - 🌱
   - OS
-  - ComputerScience 
-alias: Secondary storage
+  - ComputerScience
+alias:
+  - Secondary storage
 date: 27--Jul--2022
+modified: 18--Dec--2023
 ---
 
 # Backing store

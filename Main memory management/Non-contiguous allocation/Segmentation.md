@@ -2,17 +2,17 @@
 tags:
   - 🌱
   - OS
-  - ComputerScience 
+  - ComputerScience
 date: 30--Jul--2022
+modified: 02--Jan--2024
 ---
-
 # Segmentation
-
+## [[Operating system]]
 [[Program]] is a collection of segments. Segments are logical units such as code, stack and heap.
 
 ![[segmentation layout.png]]
 
-## Advantage
+### Advantage
 
 1. Memory management that support [[User view]]
     1. Unlike [[Paging]] which
@@ -20,11 +20,11 @@ date: 30--Jul--2022
 3. [[Segmentation sharing]] is independent
 4. Avoid [[Internal fragmentation]]
 
-## Disadvantage
+### Disadvantage
 
 1. [[External fragmentation]]
 
-## Architecture
+### Architecture
 
 1. [[Logical address]] consists of
     1. Segment number
@@ -33,6 +33,8 @@ date: 30--Jul--2022
 3. [[Segment table base register]]
     1. [[Relocation register|Base register]] concept. Points to [[Segment table]] location.
 4. [[Segment table length register]]
+## [[NLP]]
+
 
 ---
 Links: 
